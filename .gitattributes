@@ -1,4 +1,7 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
+Frogger/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/*.dll filter=lfs diff=lfs merge=lfs -text
+Frogger/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/*.dylib filter=lfs diff=lfs merge=lfs -text
+Frogger/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/*.so filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
